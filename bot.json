@@ -1,0 +1,38 @@
+[
+    {
+        "id" : "google",
+        "ipList" : {
+            "knownIPList" : [],
+            "dynamicIPList" : []
+        },
+        "isNameServerCheckRequired" : true,
+        "nameServers" : ["google.com", "googlebot.com"]
+    },
+    {
+        "id" : "bing",
+        "ipList" : {
+            "knownIPList" : [],
+            "dynamicIPList" : []
+        },
+        "isNameServerCheckRequired" : true,
+        "nameServers" : ["msn.com"]
+    },
+    {
+        "id" : "baidu",
+        "ipList" : {
+            "knownIPList" : [],
+            "dynamicIPList" : []
+        },
+        "isNameServerCheckRequired" : true,
+        "nameServers" : ["baidu.com", "baidu.jp"]
+    },
+    {
+        "id" : "duckduckgo",
+        "ipList" : {
+            "knownIPList" : ["50.16.241.113", "50.16.241.114", "50.16.241.117","50.16.247.234", "52.204.97.54","52.5.190.19", "54.197.234.188", "54.208.100.253", "23.21.227.69"],
+            "dynamicIPList" : []
+        },
+        "isNameServerCheckRequired" : false,
+        "nameServers" : ["msn.com"]
+    }
+]

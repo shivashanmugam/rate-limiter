@@ -1,0 +1,39 @@
+[
+    {
+        "ip":"127.0.0.2",
+        "isBlack" : true,
+        "addedOn" : "2019-08-17T02:21:17.334Z",
+        "exceedCountOfTheDay" : 0,
+        "exceedCountTotal" : 2
+
+    },
+    {
+        "ip":"127.0.0.3",
+        "isBlack" : true,
+        "addedOn" : "2019-08-17T02:21:17.334Z",
+        "exceedCountOfTheDay" : 0,
+        "exceedCountTotal" : 220
+    },
+    {
+        "ip":"127.0.0.102",
+        "isBlack" : false,
+        "addedOn" : "2019-08-17T02:21:17.334Z",
+        "exceedCountOfTheDay" : 0,
+        "exceedCountTotal" : 13
+    },
+    {
+        "ip":"127.0.0.103",
+        "isBlack" : false,
+        "addedOn" : "2019-08-17T02:21:17.334Z",
+        "exceedCountOfTheDay" : 0,
+        "exceedCountTotal" : 15
+    },
+    {
+        "ip":"127.0.0.104",
+        "isBlack" : false,
+        "addedOn" : "2019-08-17T02:21:17.334Z",
+        "exceedCountOfTheDay" : 0,
+        "exceedCountTotal" : 15
+    }
+    
+]
